@@ -9,9 +9,11 @@ URL: https://github.com/hoxo-m/SparkRext
 BugReports: https://github.com/hoxo-m/SparkRext/issues
 Description: SparkR extension for closer to dplyr.
 Suggests:
+  dplyr,
   nycflights13,
   testthat
 Imports:
+  assertthat,
   lazyeval,
   pipeR,
   stringr
