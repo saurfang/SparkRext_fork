@@ -12,7 +12,6 @@ Suggests:
   nycflights13,
   testthat
 Imports:
-  dplyr,
   lazyeval,
   pipeR,
   stringr
