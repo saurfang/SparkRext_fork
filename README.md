@@ -1,6 +1,6 @@
 # SparkRext - SparkR extension for dplyr
 
-
+**Moved to https://github.com/saurfang/SparkRext instead**
 
 
 
